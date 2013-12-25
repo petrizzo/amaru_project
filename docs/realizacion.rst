@@ -6,13 +6,6 @@
 Realización:
 ============
 
-
-Contenidos:
-===========
-
-.. toctree::
-   :maxdepth: 2
-
 Índices y tablas
 ================
 

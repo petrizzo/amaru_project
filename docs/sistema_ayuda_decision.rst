@@ -6,13 +6,6 @@
 Sistema de Ayuda a la toma de decisiones:
 =========================================
 
-
-Contenidos:
-===========
-
-.. toctree::
-   :maxdepth: 2
-
 Índices y tablas
 ================
 

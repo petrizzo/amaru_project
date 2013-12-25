@@ -7,12 +7,6 @@ Modelos Conceptuales:
 =====================
 
 
-Contenidos:
-===========
-
-.. toctree::
-   :maxdepth: 2
-
 Índices y tablas
 ================
 

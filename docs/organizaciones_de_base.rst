@@ -8,11 +8,6 @@ Organizaciones de Base:
 
 Herramienta apalancadora de ...
 
-Contenidos:
-===========
-
-.. toctree::
-   :maxdepth: 2
 
 Índices y tablas
 ================

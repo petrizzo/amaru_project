@@ -6,15 +6,8 @@
 Qué es Amarú:
 =============
 
-
 Qué no es Amarú:
 ================
-
-Contenidos:
-===========
-
-.. toctree::
-   :maxdepth: 2
 
 Índices y tablas
 ================

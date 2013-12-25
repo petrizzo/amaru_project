@@ -41,12 +41,6 @@ gestión del proceso de compras y distribución de hortalizas como soporte a las
 
 Para esta definición inicial, se han considerado los siguientes componentes de la situación observada:
 
-Contenidos:
-===========
-
-.. toctree::
-   :maxdepth: 2
-
 Clientes:
 ---------
 Comunidades que se benefician de las ferias comuneras, tanto en términos tangibles, mediante el intercambio de rubros

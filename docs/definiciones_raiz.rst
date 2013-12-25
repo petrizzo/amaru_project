@@ -18,12 +18,6 @@ de la agroecológica, mientras se mantenga el compromiso de la PCG con el MCA.
 personal de la PCG, para traslado de los procesos de intercambio realizados a través de las redes tradicionales a las
 redes comuneras, mientras se mantenga el compromiso de la PCG con el MCA.
 
-Contenidos:
-===========
-
-.. toctree::
-   :maxdepth: 2
-
 Índices y tablas
 ================
 

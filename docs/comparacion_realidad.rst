@@ -7,12 +7,6 @@ Comparación con la Realidad:
 ============================
 
 
-Contenidos:
-===========
-
-.. toctree::
-   :maxdepth: 2
-
 Índices y tablas
 ================
 
