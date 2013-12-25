@@ -6,10 +6,3 @@
 Implementación:
 ===============
 
-
-Índices y tablas
-================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

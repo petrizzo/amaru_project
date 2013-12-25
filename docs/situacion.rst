@@ -85,10 +85,3 @@ Compromiso del la PCG con el proyecto del MCA.
 
 Aceptación de las Ferias Comuneras por parte de las comunidades.
 
-
-Índices y tablas
-================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

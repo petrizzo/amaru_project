@@ -6,9 +6,3 @@
 Cambios deseables y factibles:
 ==============================
 
-Índices y tablas
-================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

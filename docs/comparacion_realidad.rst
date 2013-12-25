@@ -6,10 +6,3 @@
 Comparación con la Realidad:
 ============================
 
-
-Índices y tablas
-================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

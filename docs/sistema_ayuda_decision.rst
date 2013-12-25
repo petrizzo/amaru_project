@@ -6,9 +6,3 @@
 Sistema de Ayuda a la toma de decisiones:
 =========================================
 
-Índices y tablas
-================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

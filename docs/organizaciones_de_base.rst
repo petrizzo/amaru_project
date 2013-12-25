@@ -9,10 +9,3 @@ Organizaciones de Base:
 Herramienta apalancadora de ...
 
 
-Índices y tablas
-================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-

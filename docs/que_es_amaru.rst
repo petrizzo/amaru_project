@@ -9,9 +9,3 @@ Qué es Amarú:
 Qué no es Amarú:
 ================
 
-Índices y tablas
-================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
