@@ -10,15 +10,16 @@ Como herramienta apalancadora de iniciativas colectivas de organización social 
 también como germen de la articulación del MCA en torno a actividades de sustento para aquellas que resultan sustantivas
 del propio movimiento.
 
-En este sentido, Amarú puede ampliar su alcance a otros ámbitos de autoformación y sensibilización como por ejemplo:
+En este sentido, Amarú puede ampliar su alcance para soporte de otros ámbitos de autoformación y sensibilización como
+por ejemplo:
 
-* Organización para el cambio
-* Articulación de redes de aprendizaje agroecológico
+* Organización para el cambio, con información, conciencia y acción.
+* Articulación de redes de aprendizaje agroecológico.
 * Consultoría a terceros en temas como prosumo agroecológico (como medio alternativo de ampliación y diversificación
-  del MCA
+  del MCA.
 * Fortalecimiento logístico de la realización de las ferias (para ganar sostenibilidad en caso de debilitarse vínculo
-  con la PCG)
-* Divulgación de prácticas de organización social para el prosumo agroecológico
+  con la PCG).
+* Divulgación de prácticas de organización social para el prosumo agroecológico.
 
 
 
