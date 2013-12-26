@@ -6,10 +6,8 @@
 Situación observada:
 ====================
 
-El contexto descrito antes, determina la necesidad de construir una herramienta que soporte el proceso de toma de
-decisiones y gestión del proceso de compras y distribución de hortalizas como soporte a las ferias comuneras.
-
-Para esta definición inicial, se han considerado los siguientes componentes de la situación observada:
+En el contexto metodológico descrito antes, los elementos identificados como antecedentes permiten construir una
+definicion raíz para la cual, como se verá, se han considerado los siguientes componentes:
 
 Clientes:
 ---------
