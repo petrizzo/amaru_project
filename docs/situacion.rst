@@ -6,8 +6,9 @@
 Situación observada:
 ====================
 
-En el contexto metodológico descrito antes, los elementos identificados como antecedentes permiten construir una
-definicion raíz para la cual, como se verá, se han considerado los siguientes componentes:
+En el contexto metodológico descrito antes, los elementos identificados como antecedentes permiten la
+construcción de una definicion raíz la cual, como se verá, se han considerado los siguientes componentes también
+llamados (CATWOE):
 
 Clientes:
 ---------

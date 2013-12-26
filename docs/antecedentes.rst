@@ -8,7 +8,7 @@ Antecedentes:
 Los elementos considerados en la construcción analítica de los antecedentes de Amarú, sn descritos a continuación desde
 una *Situación considerada problemática* hasta una *Situación problemática expresada*.
 
-Los elementos distinguibles como antecedentes con:
+Los elementos distinguibles como antecedentes son:
 
 #. El Movimiento Comunero Agroecológico del Táchira carece de una estructura organizativa tal que les permita a sus
    integrantes articular actividades de cogestión, localización y gestión de recursos, captación de nuevos miembros
@@ -28,7 +28,7 @@ Los elementos distinguibles como antecedentes con:
 
 #. Es fundamental bajo este escenario promover en las comunidades los conceptos de intercambio solidario,
    la co-responsabilidad en la sustentabilidad económica de la red comunera, la transformación progresiva en
-   prosumidores, el importante significado de la agroecología.
+   prosumidores, el impacto de la agroecología.
 
 #. El proceso de fijación de precios de los productores no es controlado por el personal de la planta encargado de
    gestionar la compra, así como tampoco el proceso de determinación de las expectativas de compras de las comunidades
@@ -48,7 +48,7 @@ Enfoque metodológico:
 
 Problemas como los evidenciados en el Movimiento Comunero Agroecológico ameritan un abordaje de mayor alcance al
 aplicado por convención para los diseños de soluciones informáticas. Por ello se adoptó una revisión de la metodología
-de sistemas blandos (Chekland, 1981).
+de sistemas blandos (Checkland, 1981).
 
 Esta metodología plantea un algoritmo para diagnosticar un problema, visibillizado múltiples visiones sobre sus
 componentes y otorgando a éstas contextos de interpretaciones a fin de valorar su validez de cara a la posible solución
