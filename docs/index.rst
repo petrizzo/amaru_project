@@ -12,7 +12,7 @@ Hubo una vez una gran sequía.
 
 Casi todas las plantas y animales murieron y no había ni un poco de sombra. Hasta el cantú, que florece en la aridez,
 sintió que sus flores se morían. El último capullo del cantú transformó sus pétalos en alas y, convertido en colibrí,
-fue hasta la cordillera y le cantó a una montaña que el mundo se moría debido a la gran sequedad. Y el colibrí,sediento
+fue hasta la cordillera y le cantó a una montaña que el mundo se moría debido a la gran sequedad. Y el colibrí, sediento
 y agotado, murió.
 
 Entrestecida por la devastación de la tierra y por el esfuerzo del colibrí, la montaña dejó escapar dos lágrimas que,
