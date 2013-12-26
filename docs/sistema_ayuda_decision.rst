@@ -18,8 +18,8 @@ Qué se puede hacer con Amarú:
 -----------------------------
 
 * Recibir las expectativas de rubros por las comunidades,
-* Sistematizar las expectativas de rubros por parte de las comunidades y convertirlas en datos útiles para la
-estimación de las compras de hortalizas.
+* Sistematizar las expectativas de rubros por parte de las comunidades y convertirlas en datos útiles para la estimación
+de las compras de hortalizas.
 * Generar requerimientos de compras y entregarlos digitalmente como requerimientos de otros sistemas o módulos
 similares.
 * Generar reportes en papel al personal de la planta encargado de la gestión de la adquisición de las hortalizas para
