@@ -18,25 +18,38 @@ Qué se puede hacer con Amarú:
 -----------------------------
 
 #. Recibir las expectativas de rubros por las comunidades,
+
 #. Sistematizar las expectativas de rubros por parte de las comunidades y convertirlas en datos útiles para la estimación
 de las compras de hortalizas.
+
 #. Generar requerimientos de compras y entregarlos digitalmente como requerimientos de otros sistemas o módulos
 similares.
+
 #. Generar reportes en papel al personal de la planta encargado de la gestión de la adquisición de las hortalizas para
 las ferias comuneras.
+
 #. Recibir información sobre los precios de adquisición por rubro/semana y registrarlos de modo histórico.
+
 #. Generar reportes en físico y en digital de estimación de precios de venta por rubro/semana y registrarlos de modo
 histórico.
+
 #. Recibir de los responsables de cada feria comunera información sobre las ventas realizadas en las distintas ferias
 habilitadas semanalmente.
+
 #. Sistematizar la información recibida y convertirla en datos útiles para el registro del histórico del proceso de
 compra y venta de hortalizas en las ferias comuneras.
+
 #. Transmitir la información sistematizada sobre las ventas realizadas en cada feria comunera al módulo de ventas del
 Sistema Administrativo de la Planta Cerro La Gloria.
+
 #. Georreferenciar los datos de las distintas ferias comuneras a fin de
+
     #. Identificar rutas más expeditas de distribución de las hortalizas.
+
     #. Explorar hábitos de consumo e incidir de un modo más preciso en ellos.
+
     #. Explorar patrones de fijación de precios de venta de hortalizas a consumidores finales.
+
     #. Identificar productores para cada rubro y asociarlos a información específica sobre sus cultivos, volúmenes y
     fecha de cosecha y otros elementos que permitan fortalecer el proceso productivo.
 
