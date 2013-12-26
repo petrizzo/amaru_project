@@ -42,6 +42,27 @@ Los elementos distinguibles como antecedentes son:
    el intercambio que se realiza con periodicidad semanal, se fundamenta en herramientas empíricas para la estimación de
    las cantidades de hortalizas por rubro que debe comprar el personal de la Planta.
 
+Resumen de debilidades y cursos propuestos:
+-------------------------------------------
+
+**Debilidad identificada**
+
+#. Imprecisión en rubros a intercambiar, precios y volúmenes de productos a intercambiar.
+#. Falta  de contacto entre varios comuneros y comuneras dentro de la red.
+#. Falta de interés de las comunidades potenciales beneficiarias de las ferias comuneras hacia el consumo de productos
+   agroecológicos locales.
+#. Ausencia de un acuerdo común sobre técnicas, estrategias y modos de consumo en agroecología.
+
+
+**Curso de Acción Propuesto**
+
+#. Diseño de una herramienta tecnológica para geolocalización de productores y planificación de ferias comuneras.
+#. Fortalecimiento de intercambio de información y toma de contacto entre comuneras y comuneros desconectados a través
+   de la generación de un directorio.
+#. Diseño de una campaña de sensibilización y motivación hacia la generación, uso y distribución de productos
+   agroecológicos.
+#. Diseño de una propuesta de talleres alternativos para comunidades de aprendizaje en agroecología.
+
 
 Enfoque metodológico:
 ---------------------
