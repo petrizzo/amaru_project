@@ -13,7 +13,6 @@ identificables:
 * Una propuesta de contenidos para procesos de aprendizaje y autoformación en agroecología
 * Un sistema informatico de apoyo a la toma de decisiones para las ferias comuneras
 
-
 Como sistema informático, Amarú constituye un modelo matemático de apoyo a la toma de decisiones en el proceso de compra
 y gestión de la distribución de insumos en ferias comuneras y tiene dos momentos de acción claramente distinguibles:
 
