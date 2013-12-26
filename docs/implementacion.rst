@@ -6,3 +6,32 @@
 Implementación:
 ===============
 
+
+Entorno Virtual:
+----------------
+
+
+Repositorio:
+------------
+
+
+Documentación:
+--------------
+
+
+Modelo de datos:
+----------------
+
+
+Componente geoespacial:
+-----------------------
+
+
+Interfaz Administrativa:
+------------------------
+
+
+Vistas:
+-------
+
+

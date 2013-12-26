@@ -43,3 +43,11 @@ Las definiciones raíz nos conducen a señalar los cambios deseables y los facti
     **Cambios Factibles**
 
         * Texto Texto Texto Texto Texto Texto
+
+
+
+Matriz de Riesgos:
+==================
+
+.. image:: _static/MatrizDeRiesgo.png
+
