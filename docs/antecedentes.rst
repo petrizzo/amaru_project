@@ -6,7 +6,7 @@
 Antecedentes:
 =============
 Los elementos considerados en la construcción analítica de los antecedentes de Amarú, sn descritos a continuación desde
-una *Situación considerada problemática* hasta una *Situación problemática expresada*.
+una **Situación considerada problemática** hasta una **Situación problemática expresada**.
 
 Los elementos distinguibles como antecedentes son:
 
@@ -69,7 +69,7 @@ Enfoque metodológico:
 
 Problemas como los evidenciados en el Movimiento Comunero Agroecológico ameritan un abordaje de mayor alcance al
 aplicado por convención para los diseños de soluciones informáticas. Por ello se adoptó una revisión de la metodología
-de sistemas blandos (Checkland, 1981).
+de sistemas blandos [#]_.
 
 Esta metodología plantea un algoritmo para diagnosticar un problema, visibillizado múltiples visiones sobre sus
 componentes y otorgando a éstas contextos de interpretaciones a fin de valorar su validez de cara a la posible solución
@@ -94,4 +94,4 @@ El algoritmo simplificado contiene los siguientes componentes:
 Referencias:
 ------------
 
-#. Checkland, Peter (1981): Systems Thinking. Systems Practice. USA: John Wiley & Sons Ltd.
+.. [#] Checkland, Peter (1981): Systems Thinking. Systems Practice. USA: John Wiley & Sons Ltd.
