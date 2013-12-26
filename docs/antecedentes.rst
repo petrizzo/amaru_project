@@ -46,5 +46,31 @@ Los elementos distinguibles como antecedentes con:
 Enfoque metodológico:
 ---------------------
 
-La identificación de los nodos críticos observados como problema y su traducción en una situación problemática
-estructurada constituye para la metodología de sistemas blandos
+Problemas como los evidenciados en el Movimiento Comunero Agroecológico ameritan un abordaje de mayor alcance al
+aplicado por convención para los diseños de soluciones informáticas. Por ello se adoptó una revisión de la metodología
+de sistemas blandos (Chekland, 1981).
+
+Esta metodología plantea un algoritmo para diagnosticar un problema, visibillizado múltiples visiones sobre sus
+componentes y otorgando a éstas contextos de interpretaciones a fin de valorar su validez de cara a la posible solución
+resultante.
+
+El algoritmo simplificado contiene los siguientes componentes:
+
+#. Identificación de hechos observables en torno a un problema conocido, señalando sus nodos críticos (Situación
+   problemática observada),
+
+#. Configuración de las visiones enriquecidas del problema a través de diagramas,
+
+#. Diseño de la situación problemática estructurada configurada a través de la *Definición Raíz*,
+
+#. Esta definicion raíz constituye la construcción de una ruta de acción (Modelo Conceptual) para el establecimiento
+   de los requerimientos básicos de la solución resultante,
+
+#. Contrastación del modelo conceptual con la situación identificada como real y definición de los posibles cambios a
+   asumir.
+
+
+Referencias:
+------------
+
+#. Checkland, Peter (1981): Systems Thinking. Systems Practice. USA: John Wiley & Sons Ltd.
