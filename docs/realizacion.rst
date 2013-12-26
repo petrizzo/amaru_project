@@ -6,3 +6,14 @@
 Realización:
 ============
 
+Componentes:
+------------
+
+
+Tecnologías Duras:
+------------------
+
+
+Tecnologías Blandas:
+--------------------
+

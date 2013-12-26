@@ -22,4 +22,21 @@ por ejemplo:
 * Divulgación de prácticas de organización social para el prosumo agroecológico.
 
 
+En este contexto, hay algunas herramientas informáticas que posibilitan apalancar la interacción, localización y
+organización de los distintos equipos de trabajo.
+
+LocalWiki:
+----------
+
+
+Comunicación:
+-------------
+
+Coordinación:
+-------------
+
+Sensibilización:
+----------------
+
+
 
