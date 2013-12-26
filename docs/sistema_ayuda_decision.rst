@@ -3,6 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
 Sistema de Ayuda a la toma de decisiones:
 =========================================
 
@@ -14,18 +15,16 @@ de información pertinente para:
 * Asignación de rubros a intercambiar en las distintas ferias comuneras programadas,
 
 Qué se puede hacer con Amarú:
-=============================
+-----------------------------
 
 * Recibir las expectativas de rubros por las comunidades,
-* Sistematizar las expectativas de rubros por parte de las
-comunidades y convertirlas en datos útiles para la estimación de las compras de hortalizas.
-* Generar requerimientos
-de compras y entregarlos digitalmente como requerimientos para el módulo de compras del Sistema Administrativo de la
-Planta Cerro La Gloria
-* Generar reportes en papel al personal de la planta encargado de la gestión de la adquisición
-de las hortalizas para las ferias comuneras.
-* Recibir información sobre los precios de adquisición por rubro/semana
-y registrarlos de modo histórico.
+* Sistematizar las expectativas de rubros por parte de las comunidades y convertirlas en datos útiles para la
+estimación de las compras de hortalizas.
+* Generar requerimientos de compras y entregarlos digitalmente como requerimientos de otros sistemas o módulos
+similares.
+* Generar reportes en papel al personal de la planta encargado de la gestión de la adquisición de las hortalizas para
+las ferias comuneras.
+* Recibir información sobre los precios de adquisición por rubro/semana y registrarlos de modo histórico.
 * Generar reportes en físico y en digital de estimación de precios de venta por rubro/semana y registrarlos de modo
 histórico.
 * Recibir de los responsables de cada feria comunera información sobre las ventas realizadas en las distintas ferias
