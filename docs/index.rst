@@ -48,6 +48,6 @@ Contenidos:
 Índices y tablas
 ================
 
-* :ref:`genindex`
+* :ref:`index`
 * :ref:`modindex`
 * :ref:`search`
