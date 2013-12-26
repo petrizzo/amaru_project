@@ -41,3 +41,25 @@ Qué se puede hacer con Amarú:
     #. Identificar productores para cada rubro y asociarlos a información específica sobre sus cultivos, volúmenes y
        fecha de cosecha y otros elementos que permitan fortalecer el proceso productivo.
 
+
+Interacción de los componentes de la Situación Problema:
+--------------------------------------------------------
+
+
+Clientes:
+^^^^^^^^^
+
+Actores:
+^^^^^^^^
+
+Transformación:
+^^^^^^^^^^^^^^^
+
+Weltanschauung:
+^^^^^^^^^^^^^^^
+
+Propietario:
+^^^^^^^^^^^^
+
+Entorno:
+^^^^^^^^

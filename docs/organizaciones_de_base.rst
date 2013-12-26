@@ -28,7 +28,6 @@ organización de los distintos equipos de trabajo.
 LocalWiki:
 ----------
 
-
 Comunicación:
 -------------
 
